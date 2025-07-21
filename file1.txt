@@ -1,3 +1,5 @@
 hello from Devops
 ansible
 hello new devops
+hello, welcome to devops
+It involves both development and operation
